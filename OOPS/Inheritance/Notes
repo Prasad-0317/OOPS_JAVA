@@ -1,0 +1,14 @@
+// Multiple Inheritance
+--> one class extending more than one classes
+--> Not allowed in Java
+--> eg. let c be child class and A , B are parent class A has n=5 and inside B n=10 , then there will be ambiguity
+     for c what is the value of n
+--> overcome using interfaces
+
+// Hierarchical Inheritance
+--> one class is inherited by many classes
+--> one parent multiple child's
+
+// Hybrid Inheritance
+--> combination of single and multiple inheritance
+--> not in java check interfaces

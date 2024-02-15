@@ -1,0 +1,24 @@
+// Abstract Classes
+> Parent class contains only body
+> Child class will decide info of that method
+> Overriding is there
+> Any class that contains one or more abstract methods , must also be declared as abstract
+> Every child class has to override all abstract methods in parent class
+> You cannot create objects of parent class but can use parent as reference variable
+> Cannot create Abstract constructors , can create constructors
+> You cannot create abstract static methods as static methods cannot be overridden , abstract needs to overridden
+> You can create static methods in abstract classes
+> cannot have final abstract class bcoz final prevents inheritance
+> Multiple inheritance is not there
+> It can have normal method
+> variables can be final or non final by default
+> Abstract class cannot be instantiated
+> Extends keyword
+
+// Interfaces
+> contain abstract functions
+> variables are static and only final by default
+> It cannot have normal method
+> implements keyword
+> which particular method to run is decided at run time
+> two classes which are unrelated to each other can also implement same interface
